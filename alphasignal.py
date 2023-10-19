@@ -5,7 +5,10 @@ https://arxiv.org/abs/2307.08621
 2. Six lecutures on linearized neural nets
 https://arxiv.org/abs/2308.13431
 
-3. 
+3. AlphaMissense, AI took that classified missense genetic mutations
+https://www.deepmind.com/blog/alphamissense-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases?utm_source=alphasignalai.beehiiv.com&utm_medium=newsletter&utm_campaign=ai-cloud-war-amazon-injects-4b-in-anthropic-ai
+
+
 
 ----- Utility
 # 2D to 3D video reconstruction
